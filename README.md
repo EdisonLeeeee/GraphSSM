@@ -8,7 +8,6 @@ Jintang Li<sup>1</sup>, Ruofan Wu<sup>2</sup>, Boqun Ma<sup>3</sup>, Xinzhou Jin
  
 
 [![arXiv](https://img.shields.io/badge/arXiv-2406.00943-b31b1b.svg)](https://arxiv.org/abs/2406.00943)
-arXiv ([arXiv:2406.00943](https://arxiv.org/abs/2406.00943))
 
 </div>
 
@@ -38,6 +37,7 @@ bash scripts/s6.sh
 ## Citation
 If you find this repository useful in your research, please consider giving a star ⭐ and a citation
 
+```bib
 @inproceedings{graphssm,
   author       = {Jintang Li and
                   Ruofan Wu and
@@ -49,4 +49,5 @@ If you find this repository useful in your research, please consider giving a st
   booktitle    = {NeurIPS},
   year         = {2024}
 }
+```
 
